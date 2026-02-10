@@ -1,11 +1,11 @@
 {
   "homepage": "https://divyakovuru62.github.io/react-app",
-  "name": "reaact",
+  "name": "react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
